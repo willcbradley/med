@@ -20,6 +20,16 @@ p {
     text-decoration: underline;
 }
 
+.envelope {
+    width: 17px;
+    height: 17px;
+}
+
+.horiz {
+    display: flex;
+    align-items: end;
+}
+
 .inter-line {
     margin-bottom: 0.3rem;
 }
